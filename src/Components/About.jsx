@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "";
 
 /**
  * Sort description that expands on your title on the Home component.
