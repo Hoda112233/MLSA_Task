@@ -16,9 +16,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "";
+import image from "../images/motion-background.jpg";
 
-const imageAltText = "";
+const imageAltText = "purple and blue abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
@@ -59,7 +59,7 @@ const About = () => {
           textAlign: "center",
         }}
       >
-        <h2>About Hoda</h2>
+        <h2>About Hoda Saleh</h2>
         <p className="large">{description}</p>
         <hr />
         <ul
