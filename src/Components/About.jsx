@@ -34,7 +34,6 @@ const skillsList = [
   "UX design",
   "UI design",
   "Web development",
-  "Product design",
   "Accessibility",
   "Electrical Power Engineering",
 ];
