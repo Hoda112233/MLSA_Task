@@ -27,11 +27,11 @@ const siteProps = {
   name: "HODA SALEH",
   title: "I HUMANIZE TECHNOLOGY",
   email: "hodasalehbelal@gmail.com",
-  gitHub: "https://github.com/Hoda112233",
+  gitHub: "Hoda112233",
   instagram: "https://www.instagram.com/hsaleh112001/",
-  linkedIn: "https://www.linkedin.com/in/hoda-saleh-belal1/",
-  medium: "https://medium.com/@hsalehbelal",
-  twitter: "https://twitter.com/Hoda_Saleh1",
+  linkedIn: "hoda-saleh-belal1/",
+  medium: "@hsalehbelal",
+  twitter: "Hoda_Saleh1",
   youTube: "@hodasaleh2001",
 };
 
