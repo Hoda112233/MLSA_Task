@@ -28,7 +28,7 @@ const siteProps = {
   title: "I HUMANIZE TECHNOLOGY",
   email: "hodasalehbelal@gmail.com",
   gitHub: "Hoda112233",
-  instagram: "https://www.instagram.com/hsaleh112001/",
+  instagram: "hsaleh112001/",
   linkedIn: "hoda-saleh-belal1/",
   medium: "@hsalehbelal",
   twitter: "Hoda_Saleh1",
