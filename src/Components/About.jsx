@@ -59,7 +59,7 @@ const About = () => {
           textAlign: "center",
         }}
       >
-        <h2>About Hoda Saleh</h2>
+        <h2>About Hoda</h2>
         <p className="large">{description}</p>
         <hr />
         <ul
