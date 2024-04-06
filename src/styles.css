@@ -36,9 +36,9 @@ section.padding {
 section img.background {
   height: 100%;
   left: 50%;
-  object-fit: cover;
+  object-fit: contain;
   pointer-events: none;
-  position: right;
+  position: left;
   top: 0;
   transform: translate(-50%, 0);
   width: 100vmax;
