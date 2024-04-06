@@ -12,13 +12,8 @@ import React from "react";
 
 /**
  * Desk image
- *
- * Below is a sample desk image. Feel free to update this to an image of your choice,
- * updating below imageAltText to string that represents what you see in that image.
- *
- * Need an image? Check out https://unsplash.com to download a photo you
- * freely use on your site.
  */
+
 import image from "";
 
 const imageAltText = "hs";
