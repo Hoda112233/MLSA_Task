@@ -6,7 +6,7 @@
 
 html,
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Orbitron", sans-serif;
   height: 100%;
   margin: 0;
   overflow-x: hidden;
@@ -38,7 +38,7 @@ section img.background {
   left: 50%;
   object-fit: cover;
   pointer-events: none;
-  position: absolute;
+  position: right;
   top: 0;
   transform: translate(-50%, 0);
   width: 100vmax;
@@ -46,7 +46,7 @@ section img.background {
 }
 
 h1 {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Orbitron", serif;
   font-size: 7rem;
   font-weight: 400;
   line-height: 0.8;
